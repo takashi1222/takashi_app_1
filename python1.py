@@ -5,7 +5,7 @@ total = 0
     total += number
   return total
 
-my_list = [10, 25, 5, 2]
+my_list = [5, 45, 70, 2]
 sum_result = calculate_sum(my_list)
 
 print(f"リスト {my_list} の合計値は: {sum_result} です。")
